@@ -112,16 +112,3 @@ body{
     font-size: 40px;
     display: none;
 }
-
-/* .emersion{
-    animation: 0.5s emersion forwards;
-    animation-delay: 0.5s;
-
-}
-
-@keyframes emersion{
-    to {
-        scale: 1;
-        opacity: 1;
-    }
-}  */
