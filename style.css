@@ -22,7 +22,6 @@ body{
     width: 350px;
     max-height: 462px;
     min-height: 90px;
-    /* overflow: visible; */
     background: #fff;
     border-radius: 20px;
     padding-top: 25px;
@@ -51,7 +50,7 @@ body{
     justify-content: space-between;
 }
 
-.search-box input{ /*LONDON*/
+.search-box input{
     width: 80%;
     font-size: 24px;
     font-weight: 500;
@@ -60,7 +59,7 @@ body{
     color: #273E54;
 }
 
- .search-box input::placeholder{ /*Введите название города */
+ .search-box input::placeholder{
     font-weight: 480;
     font-size: 20px;
     color: #273E54;
